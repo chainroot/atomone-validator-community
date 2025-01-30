@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|  Chainroot | chainroot.io | @chainroot_io |  EU-SE  | @chainroot | contact@chainroot.io / mehrdad@chainroot.io  | @chainroot  | A7BDE6A0D1A03D353F4A36E13B2844C7188920B4A189C817F39290CFC81FF9C9  |
+|  Chainroot | chainroot.io | @chainroot_io | Sweden | @chainroot | contact@chainroot.io / mehrdad@chainroot.io  | @chainroot  | A7BDE6A0D1A03D353F4A36E13B2844C7188920B4A189C817F39290CFC81FF9C9  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
